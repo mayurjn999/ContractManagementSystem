@@ -1,0 +1,3 @@
+With the establishment and development of the socialist market economic system and the perfection and standardization of laws and regulations, it is an inevitable trend to adopt computer technology to manage contracts.
+
+This project will understand the business background of the project, investigate the functions of the similar contract management system, learn the system, business process and so on.Contract management system is a web application project, the core technologies are static Web (HTML, div, CSS), JavaScript and database design and programming. The project is developed using agile based scrum methodology.
